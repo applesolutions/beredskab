@@ -1,7 +1,8 @@
 <script type='text/javascript'>
 $(function() {
+   Dashing.gridsterLayout('[{"col":5,"row":1,"size_x":1,"size_y":1},{"col":1,"row":1,"size_x":1,"size_y":1},{"col":3,"row":1,"size_x":2,"size_y":1},{"col":2,"row":2,"size_x":1,"size_y":1},{"col":3,"row":4,"size_x":1,"size_y":1},{"col":1,"row":2,"size_x":1,"size_y":2},{"col":3,"row":2,"size_x":1,"size_y":1},{"col":2,"row":3,"size_x":2,"size_y":1},{"col":4,"row":2,"size_x":2,"size_y":2},{"col":1,"row":4,"size_x":2,"size_y":3},{"col":1,"row":1,"size_x":1,"size_y":1},{"col":2,"row":1,"size_x":1,"size_y":1}]')
   // These settings override the defaults set in application.coffee. You can do this on a per dashboard basis.
-  Dashing.gridsterLayout('[{"col":2,"row":1},{"col":1,"row":1},{"col":3,"row":1},{"col":2,"row":2},{"col":3,"row":2},{"col":1,"row":2},{"col":5,"row":1},{"col":4,"row":2},{"col":2,"row":3}]')
+  //Dashing.gridsterLayout('[{"col":2,"row":1},{"col":1,"row":1},{"col":3,"row":1},{"col":2,"row":2},{"col":3,"row":2},{"col":1,"row":2},{"col":5,"row":1},{"col":4,"row":2},{"col":2,"row":3}]')
   Dashing.widget_base_dimensions = [370, 340]
   Dashing.numColumns = 5
 });
@@ -49,6 +50,18 @@ $(function() {
     <li data-row="1" data-col="1" data-sizex="2" data-sizey="2">
       <div data-id="twitter_mentions" data-view="Comments" style="background-color:#47bbb3;" data-moreinfo="Tweets tagged with #hberedskab & #Politidk"></div>
       <i class="fa fa-twitter icon-background"></i>
+    </li>
+
+    <li data-row="1" data-col="1" data-sizex="2" data-sizey="3">
+  <div data-id="trafficmap" data-view="Trafficmap" data-title="Trafik nær København" data-lat="55.6893643" data-long="-12.5356831,15" data-zoom="14" ></div>
+    </li>  
+
+    <li data-row="1" data-col="1" data-sizex="1" data-sizey="1">
+    <div data-id="shopify" data-view="Shopify" data-title="Shopify" style="background-color:#47bbb3;"></div>
+    <i class="icon-shopping-cart icon-background"></i>
+</li>
+<li data-row="1" data-col="1" data-sizex="1" data-sizey="1">
+      <div data-id="stripe_stats" data-view="StripeStats" data-title="iConnects Shop"></div>
     </li>
 
   </ul>

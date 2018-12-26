@@ -1,40 +1,45 @@
 ---
-valuation: "data: {\"current\":91,\"last\":92,\"id\":\"valuation\",\"updatedAt\":1545837586}\n\n"
-karma: "data: {\"current\":67171,\"last\":42867,\"id\":\"karma\",\"updatedAt\":1545837586}\n\n"
-synergy: "data: {\"value\":11,\"id\":\"synergy\",\"updatedAt\":1545837586}\n\n"
-buzzwords: "data: {\"items\":[{\"label\":\"Streamlininess\",\"value\":13},{\"label\":\"Turn-key\",\"value\":5},{\"label\":\"Leverage\",\"value\":0},{\"label\":\"Pivoting\",\"value\":11},{\"label\":\"Enterprise\",\"value\":17},{\"label\":\"Synergy\",\"value\":15},{\"label\":\"Paradigm
-  shift\",\"value\":19},{\"label\":\"Web 2.0\",\"value\":11},{\"label\":\"Exit strategy\",\"value\":0}],\"id\":\"buzzwords\",\"updatedAt\":1545837586}\n\n"
-convergence: "data: {\"points\":[{\"x\":962,\"y\":14},{\"x\":963,\"y\":30},{\"x\":964,\"y\":26},{\"x\":965,\"y\":11},{\"x\":966,\"y\":47},{\"x\":967,\"y\":26},{\"x\":968,\"y\":30},{\"x\":969,\"y\":34},{\"x\":970,\"y\":4},{\"x\":971,\"y\":23}],\"id\":\"convergence\",\"updatedAt\":1545837586}\n\n"
-twitter_mentions: "data: {\"comments\":[{\"name\":\"presse fotos\",\"body\":\"Melding
-  om brand på altan på Oscar Pettitfordsvej i København. \\n#røgfraaltan #brand #hberedskab
-  #københavn #politidk https://t.co/CB4nxYCwq3\",\"avatar\":\"https://pbs.twimg.com/profile_images/928889989169106944/LFtehZyQ_normal.jpg\"},{\"name\":\"presse
+valuation: "data: {\"current\":41,\"last\":79,\"id\":\"valuation\",\"updatedAt\":1545855302}\n\n"
+karma: "data: {\"current\":44757,\"last\":94604,\"id\":\"karma\",\"updatedAt\":1545855302}\n\n"
+synergy: "data: {\"value\":19,\"id\":\"synergy\",\"updatedAt\":1545855302}\n\n"
+buzzwords: "data: {\"items\":[{\"label\":\"Turn-key\",\"value\":6},{\"label\":\"Exit
+  strategy\",\"value\":5},{\"label\":\"Leverage\",\"value\":4},{\"label\":\"Pivoting\",\"value\":5},{\"label\":\"Streamlininess\",\"value\":3},{\"label\":\"Paradigm
+  shift\",\"value\":4},{\"label\":\"Synergy\",\"value\":3},{\"label\":\"Enterprise\",\"value\":4},{\"label\":\"Web
+  2.0\",\"value\":2}],\"id\":\"buzzwords\",\"updatedAt\":1545855302}\n\n"
+convergence: "data: {\"points\":[{\"x\":37,\"y\":48},{\"x\":38,\"y\":13},{\"x\":39,\"y\":34},{\"x\":40,\"y\":47},{\"x\":41,\"y\":14},{\"x\":42,\"y\":0},{\"x\":43,\"y\":28},{\"x\":44,\"y\":36},{\"x\":45,\"y\":36},{\"x\":46,\"y\":5}],\"id\":\"convergence\",\"updatedAt\":1545855302}\n\n"
+twitter_mentions: "data: {\"comments\":[{\"name\":\"presse fotos\",\"body\":\"Røg
+  fra kælder, Nyropsgade i København. \\n#røgfrakælder #brand #hberedskab #nyropsgade
+  #københavn #politidk https://t.co/xzUItFBddt\",\"avatar\":{\"scheme\":\"https\",\"user\":null,\"password\":null,\"host\":\"pbs.twimg.com\",\"port\":null,\"path\":\"/profile_images/928889989169106944/LFtehZyQ_normal.jpg\",\"query\":null,\"fragment\":null}},{\"name\":\"presse
+  fotos\",\"body\":\"Melding om brand på altan på Oscar Pettitfordsvej i København.
+  \\n#røgfraaltan #brand #hberedskab #københavn #politidk https://t.co/CB4nxYCwq3\",\"avatar\":{\"scheme\":\"https\",\"user\":null,\"password\":null,\"host\":\"pbs.twimg.com\",\"port\":null,\"path\":\"/profile_images/928889989169106944/LFtehZyQ_normal.jpg\",\"query\":null,\"fragment\":null}},{\"name\":\"presse
   fotos\",\"body\":\"Brand på Valløvej i København tirsdag aften. \\n#brand #ildibygning
-  #københavn #hberedskab #politidk https://t.co/yRT4THkEQ2\",\"avatar\":\"https://pbs.twimg.com/profile_images/928889989169106944/LFtehZyQ_normal.jpg\"},{\"name\":\"presse
+  #københavn #hberedskab #politidk https://t.co/yRT4THkEQ2\",\"avatar\":{\"scheme\":\"https\",\"user\":null,\"password\":null,\"host\":\"pbs.twimg.com\",\"port\":null,\"path\":\"/profile_images/928889989169106944/LFtehZyQ_normal.jpg\",\"query\":null,\"fragment\":null}},{\"name\":\"presse
   fotos\",\"body\":\"Mindre brand på Hvidovre hospitals kollegie i Hvidovre. \\nKollegiet
-  evakueret. \\n#bygningsbrand #brand #hberedskab… https://t.co/f9aFHZr04W\",\"avatar\":\"https://pbs.twimg.com/profile_images/928889989169106944/LFtehZyQ_normal.jpg\"},{\"name\":\"presse
+  evakueret. \\n#bygningsbrand #brand #hberedskab… https://t.co/f9aFHZr04W\",\"avatar\":{\"scheme\":\"https\",\"user\":null,\"password\":null,\"host\":\"pbs.twimg.com\",\"port\":null,\"path\":\"/profile_images/928889989169106944/LFtehZyQ_normal.jpg\",\"query\":null,\"fragment\":null}},{\"name\":\"presse
   fotos\",\"body\":\"Uheld med fastklemte på Hvidovre Strandvej i Hvidovre. \\n#fuh
-  #fuhfastklemt #uheld #ulykke #hvidovre #hberedskab… https://t.co/Qe3jdRhoQ8\",\"avatar\":\"https://pbs.twimg.com/profile_images/928889989169106944/LFtehZyQ_normal.jpg\"},{\"name\":\"presse
+  #fuhfastklemt #uheld #ulykke #hvidovre #hberedskab… https://t.co/Qe3jdRhoQ8\",\"avatar\":{\"scheme\":\"https\",\"user\":null,\"password\":null,\"host\":\"pbs.twimg.com\",\"port\":null,\"path\":\"/profile_images/928889989169106944/LFtehZyQ_normal.jpg\",\"query\":null,\"fragment\":null}},{\"name\":\"presse
   fotos\",\"body\":\"Bil mod bil på Nørre Farimagsgade i København juleaften. \\n#fuh
-  #uheld #ulykke #hberedskab #politidk https://t.co/1rucVxA035\",\"avatar\":\"https://pbs.twimg.com/profile_images/928889989169106944/LFtehZyQ_normal.jpg\"},{\"name\":\"presse
+  #uheld #ulykke #hberedskab #politidk https://t.co/1rucVxA035\",\"avatar\":{\"scheme\":\"https\",\"user\":null,\"password\":null,\"host\":\"pbs.twimg.com\",\"port\":null,\"path\":\"/profile_images/928889989169106944/LFtehZyQ_normal.jpg\",\"query\":null,\"fragment\":null}},{\"name\":\"presse
   fotos\",\"body\":\"Røg fra lejlighed på Vesterbrogade i København. \\n#røgfralejlighed
-  #brand #vesterbrogade #vesterbro #hberedskab… https://t.co/XCAnz0igf4\",\"avatar\":\"https://pbs.twimg.com/profile_images/928889989169106944/LFtehZyQ_normal.jpg\"},{\"name\":\"presse
+  #brand #vesterbrogade #vesterbro #hberedskab… https://t.co/XCAnz0igf4\",\"avatar\":{\"scheme\":\"https\",\"user\":null,\"password\":null,\"host\":\"pbs.twimg.com\",\"port\":null,\"path\":\"/profile_images/928889989169106944/LFtehZyQ_normal.jpg\",\"query\":null,\"fragment\":null}},{\"name\":\"presse
   fotos\",\"body\":\"Trafikalt kaos i Glostrup efter et større dieselspild på Hovedvejen
-  har medført omlægning af trafikken.… https://t.co/zySdlJ4NJs\",\"avatar\":\"https://pbs.twimg.com/profile_images/928889989169106944/LFtehZyQ_normal.jpg\"},{\"name\":\"presse
+  har medført omlægning af trafikken.… https://t.co/zySdlJ4NJs\",\"avatar\":{\"scheme\":\"https\",\"user\":null,\"password\":null,\"host\":\"pbs.twimg.com\",\"port\":null,\"path\":\"/profile_images/928889989169106944/LFtehZyQ_normal.jpg\",\"query\":null,\"fragment\":null}},{\"name\":\"presse
   fotos\",\"body\":\"Kraftig brand i bygning på Sydvestvej i Glostrup onsdag aften.
-  \\n#ildibygning #brand #glostrup #hberedskab #politidk https://t.co/VzetUrSYS5\",\"avatar\":\"https://pbs.twimg.com/profile_images/928889989169106944/LFtehZyQ_normal.jpg\"},{\"name\":\"presse
+  \\n#ildibygning #brand #glostrup #hberedskab #politidk https://t.co/VzetUrSYS5\",\"avatar\":{\"scheme\":\"https\",\"user\":null,\"password\":null,\"host\":\"pbs.twimg.com\",\"port\":null,\"path\":\"/profile_images/928889989169106944/LFtehZyQ_normal.jpg\",\"query\":null,\"fragment\":null}},{\"name\":\"presse
   fotos\",\"body\":\"Ild i kælder. \\nDyringparken, Brøndby strand. \\n#ildikælder
-  #brand #hberedskab #brøndby #politidk https://t.co/q1pomdZGrk\",\"avatar\":\"https://pbs.twimg.com/profile_images/928889989169106944/LFtehZyQ_normal.jpg\"},{\"name\":\"presse
+  #brand #hberedskab #brøndby #politidk https://t.co/q1pomdZGrk\",\"avatar\":{\"scheme\":\"https\",\"user\":null,\"password\":null,\"host\":\"pbs.twimg.com\",\"port\":null,\"path\":\"/profile_images/928889989169106944/LFtehZyQ_normal.jpg\",\"query\":null,\"fragment\":null}},{\"name\":\"presse
   fotos\",\"body\":\"Taget på Borgerservice ved Hvidovre rådhus er tirsdag formiddag
-  styrtet sammen. \\n#sammenstyrtning #redning… https://t.co/0C2xK4R8v8\",\"avatar\":\"https://pbs.twimg.com/profile_images/928889989169106944/LFtehZyQ_normal.jpg\"},{\"name\":\"presse
+  styrtet sammen. \\n#sammenstyrtning #redning… https://t.co/0C2xK4R8v8\",\"avatar\":{\"scheme\":\"https\",\"user\":null,\"password\":null,\"host\":\"pbs.twimg.com\",\"port\":null,\"path\":\"/profile_images/928889989169106944/LFtehZyQ_normal.jpg\",\"query\":null,\"fragment\":null}},{\"name\":\"presse
   fotos\",\"body\":\"Brand i skur. Rødtjørnen i Dragør natten til tirsdag. \\n#ildiskur
-  #brand #hberedskab #dragør #politidk https://t.co/hpXQdoJzsJ\",\"avatar\":\"https://pbs.twimg.com/profile_images/928889989169106944/LFtehZyQ_normal.jpg\"},{\"name\":\"presse
+  #brand #hberedskab #dragør #politidk https://t.co/hpXQdoJzsJ\",\"avatar\":{\"scheme\":\"https\",\"user\":null,\"password\":null,\"host\":\"pbs.twimg.com\",\"port\":null,\"path\":\"/profile_images/928889989169106944/LFtehZyQ_normal.jpg\",\"query\":null,\"fragment\":null}},{\"name\":\"presse
   fotos\",\"body\":\"Brand i opgang, Store Krog, Amager natten til tirsdag. \\n#ildibygning
-  #brand #hberedskab #amager #politidk https://t.co/PttVvCFV9v\",\"avatar\":\"https://pbs.twimg.com/profile_images/928889989169106944/LFtehZyQ_normal.jpg\"},{\"name\":\"presse
+  #brand #hberedskab #amager #politidk https://t.co/PttVvCFV9v\",\"avatar\":{\"scheme\":\"https\",\"user\":null,\"password\":null,\"host\":\"pbs.twimg.com\",\"port\":null,\"path\":\"/profile_images/928889989169106944/LFtehZyQ_normal.jpg\",\"query\":null,\"fragment\":null}},{\"name\":\"presse
   fotos\",\"body\":\"Mere end 15 påsatte brande på Nørrebro i løbet af de seneste
-  24 timer. \\n#ildicontainer #ildiskur #brand #hberedskab… https://t.co/brnIbbokOa\",\"avatar\":\"https://pbs.twimg.com/profile_images/928889989169106944/LFtehZyQ_normal.jpg\"},{\"name\":\"presse
+  24 timer. \\n#ildicontainer #ildiskur #brand #hberedskab… https://t.co/brnIbbokOa\",\"avatar\":{\"scheme\":\"https\",\"user\":null,\"password\":null,\"host\":\"pbs.twimg.com\",\"port\":null,\"path\":\"/profile_images/928889989169106944/LFtehZyQ_normal.jpg\",\"query\":null,\"fragment\":null}},{\"name\":\"presse
   fotos\",\"body\":\"Ild i affald i kælder på Telemarksgade på Amager. \\n#ildikælder
-  #brand #amager #hberedskab #politidk https://t.co/ATgqDHrmNu\",\"avatar\":\"https://pbs.twimg.com/profile_images/928889989169106944/LFtehZyQ_normal.jpg\"},{\"name\":\"presse
+  #brand #amager #hberedskab #politidk https://t.co/ATgqDHrmNu\",\"avatar\":{\"scheme\":\"https\",\"user\":null,\"password\":null,\"host\":\"pbs.twimg.com\",\"port\":null,\"path\":\"/profile_images/928889989169106944/LFtehZyQ_normal.jpg\",\"query\":null,\"fragment\":null}},{\"name\":\"presse
   fotos\",\"body\":\"Brand i møntvaskeri på Amagerbrogade mandag formiddag. \\n#ildibygning
-  #brand #amager #hberedskab #politidk https://t.co/l9N7QjMcGo\",\"avatar\":\"https://pbs.twimg.com/profile_images/928889989169106944/LFtehZyQ_normal.jpg\"},{\"name\":\"presse
+  #brand #amager #hberedskab #politidk https://t.co/l9N7QjMcGo\",\"avatar\":{\"scheme\":\"https\",\"user\":null,\"password\":null,\"host\":\"pbs.twimg.com\",\"port\":null,\"path\":\"/profile_images/928889989169106944/LFtehZyQ_normal.jpg\",\"query\":null,\"fragment\":null}},{\"name\":\"presse
   fotos\",\"body\":\"Ild i villa på Femagervej i Hvidovre. \\n#ildivilla #brand #hberedskab
-  #politidk https://t.co/NbbevkvDso\",\"avatar\":\"https://pbs.twimg.com/profile_images/928889989169106944/LFtehZyQ_normal.jpg\"}],\"id\":\"twitter_mentions\",\"updatedAt\":1545837465}\n\n"
+  #politidk https://t.co/NbbevkvDso\",\"avatar\":{\"scheme\":\"https\",\"user\":null,\"password\":null,\"host\":\"pbs.twimg.com\",\"port\":null,\"path\":\"/profile_images/928889989169106944/LFtehZyQ_normal.jpg\",\"query\":null,\"fragment\":null}}],\"id\":\"twitter_mentions\",\"updatedAt\":1545855231}\n\n"
+shopify: "data: {\"value\":5,\"id\":\"shopify\",\"updatedAt\":1545855293}\n\n"

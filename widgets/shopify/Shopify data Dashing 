@@ -1,0 +1,19 @@
+Shopify store data widget
+by Larry Wheeler
+
+# Description
+Widget for [Dashing](http://dashing.io/) that shows data from your Shopify shop.
+
+# Usage
+1. To use this widget, copy `shopify.html`, `shopify.coffee`, and `shopify.scss` into a `/widgets/shopify` directory, and copy the `shopify.rb` file into your `/jobs` folder.
+2. Create a private app in your store and copy the secret and login. https://docs.shopify.com/api/guides/api-credentials
+3. Add gem 'shopify_api', :require => 'shopify_api' to your Gemfile 'gem install shopify_api'
+
+To include the widget in a dashboard, add the following snippet to the dashboard layout file:
+```html
+<li data-row="1" data-col="1" data-sizex="1" data-sizey="1">
+    <div data-id="shopify" data-view="Shopify" data-title="Shopify" style="background-color:#47bbb3;"></div>
+    <i class="icon-shopping-cart icon-background"></i>
+</li>
+```
+
