@@ -1,12 +1,11 @@
 ---
-valuation: "data: {\"current\":41,\"last\":79,\"id\":\"valuation\",\"updatedAt\":1545855302}\n\n"
-karma: "data: {\"current\":44757,\"last\":94604,\"id\":\"karma\",\"updatedAt\":1545855302}\n\n"
-synergy: "data: {\"value\":19,\"id\":\"synergy\",\"updatedAt\":1545855302}\n\n"
-buzzwords: "data: {\"items\":[{\"label\":\"Turn-key\",\"value\":6},{\"label\":\"Exit
-  strategy\",\"value\":5},{\"label\":\"Leverage\",\"value\":4},{\"label\":\"Pivoting\",\"value\":5},{\"label\":\"Streamlininess\",\"value\":3},{\"label\":\"Paradigm
-  shift\",\"value\":4},{\"label\":\"Synergy\",\"value\":3},{\"label\":\"Enterprise\",\"value\":4},{\"label\":\"Web
-  2.0\",\"value\":2}],\"id\":\"buzzwords\",\"updatedAt\":1545855302}\n\n"
-convergence: "data: {\"points\":[{\"x\":37,\"y\":48},{\"x\":38,\"y\":13},{\"x\":39,\"y\":34},{\"x\":40,\"y\":47},{\"x\":41,\"y\":14},{\"x\":42,\"y\":0},{\"x\":43,\"y\":28},{\"x\":44,\"y\":36},{\"x\":45,\"y\":36},{\"x\":46,\"y\":5}],\"id\":\"convergence\",\"updatedAt\":1545855302}\n\n"
+valuation: "data: {\"current\":93,\"last\":78,\"id\":\"valuation\",\"updatedAt\":1545861044}\n\n"
+karma: "data: {\"current\":84562,\"last\":123154,\"id\":\"karma\",\"updatedAt\":1545861044}\n\n"
+synergy: "data: {\"value\":38,\"id\":\"synergy\",\"updatedAt\":1545861044}\n\n"
+buzzwords: "data: {\"items\":[{\"label\":\"Pivoting\",\"value\":5},{\"label\":\"Synergy\",\"value\":2},{\"label\":\"Leverage\",\"value\":4},{\"label\":\"Enterprise\",\"value\":5},{\"label\":\"Exit
+  strategy\",\"value\":5},{\"label\":\"Web 2.0\",\"value\":4},{\"label\":\"Streamlininess\",\"value\":1},{\"label\":\"Paradigm
+  shift\",\"value\":2},{\"label\":\"Turn-key\",\"value\":4}],\"id\":\"buzzwords\",\"updatedAt\":1545861044}\n\n"
+convergence: "data: {\"points\":[{\"x\":33,\"y\":47},{\"x\":34,\"y\":13},{\"x\":35,\"y\":14},{\"x\":36,\"y\":25},{\"x\":37,\"y\":34},{\"x\":38,\"y\":1},{\"x\":39,\"y\":39},{\"x\":40,\"y\":45},{\"x\":41,\"y\":10},{\"x\":42,\"y\":43}],\"id\":\"convergence\",\"updatedAt\":1545861045}\n\n"
 twitter_mentions: "data: {\"comments\":[{\"name\":\"presse fotos\",\"body\":\"Røg
   fra kælder, Nyropsgade i København. \\n#røgfrakælder #brand #hberedskab #nyropsgade
   #københavn #politidk https://t.co/xzUItFBddt\",\"avatar\":{\"scheme\":\"https\",\"user\":null,\"password\":null,\"host\":\"pbs.twimg.com\",\"port\":null,\"path\":\"/profile_images/928889989169106944/LFtehZyQ_normal.jpg\",\"query\":null,\"fragment\":null}},{\"name\":\"presse
@@ -41,5 +40,5 @@ twitter_mentions: "data: {\"comments\":[{\"name\":\"presse fotos\",\"body\":\"R�
   fotos\",\"body\":\"Brand i møntvaskeri på Amagerbrogade mandag formiddag. \\n#ildibygning
   #brand #amager #hberedskab #politidk https://t.co/l9N7QjMcGo\",\"avatar\":{\"scheme\":\"https\",\"user\":null,\"password\":null,\"host\":\"pbs.twimg.com\",\"port\":null,\"path\":\"/profile_images/928889989169106944/LFtehZyQ_normal.jpg\",\"query\":null,\"fragment\":null}},{\"name\":\"presse
   fotos\",\"body\":\"Ild i villa på Femagervej i Hvidovre. \\n#ildivilla #brand #hberedskab
-  #politidk https://t.co/NbbevkvDso\",\"avatar\":{\"scheme\":\"https\",\"user\":null,\"password\":null,\"host\":\"pbs.twimg.com\",\"port\":null,\"path\":\"/profile_images/928889989169106944/LFtehZyQ_normal.jpg\",\"query\":null,\"fragment\":null}}],\"id\":\"twitter_mentions\",\"updatedAt\":1545855231}\n\n"
-shopify: "data: {\"value\":5,\"id\":\"shopify\",\"updatedAt\":1545855293}\n\n"
+  #politidk https://t.co/NbbevkvDso\",\"avatar\":{\"scheme\":\"https\",\"user\":null,\"password\":null,\"host\":\"pbs.twimg.com\",\"port\":null,\"path\":\"/profile_images/928889989169106944/LFtehZyQ_normal.jpg\",\"query\":null,\"fragment\":null}}],\"id\":\"twitter_mentions\",\"updatedAt\":1545860981}\n\n"
+shopify: "data: {\"value\":5,\"id\":\"shopify\",\"updatedAt\":1545861042}\n\n"
