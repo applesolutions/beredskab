@@ -1,7 +1,6 @@
 source 'https://rubygems.org'
 
 gem 'dashing'
-ruby '2.3.7'
 gem 'shopify_api', :require => 'shopify_api'
 gem 'stripe'
 
